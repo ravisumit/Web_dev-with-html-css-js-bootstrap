@@ -1,0 +1,29 @@
+header{
+    background-color: orangered;
+    text-align: center;
+    text-decoration-color: azure;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+body{
+    background-image: url("bg_flag.jpg");
+    width: 100%b;
+    
+}
+
+.data{
+    background-color: mistyrose;
+}
+
+.f1{
+    background-color: cornsilk;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+}

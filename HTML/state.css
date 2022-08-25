@@ -1,0 +1,35 @@
+.h2{
+    background-color: orangered;
+
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: sandybrown;
+    color: white;
+  }
+
+  .header h1 {
+    font-size: 30px;
+  }
+
+  body{
+    background-color: cornsilk;
+  }
+
+.column{
+    flex: 50%;
+    padding: 5px;
+}
+
+.row{
+    
+    display: flex;
+}
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: green;
+  }
